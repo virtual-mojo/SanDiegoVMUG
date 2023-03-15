@@ -1,6 +1,6 @@
 # SanDiegoVMUG
 ## Community Sites
-
+* [San Diego VMUG Community site](https://my.vmug.com/s/group/0F94x00000057u3CAA/san-diego-vmug)
 * https://vcommunity.io/ - Discord community run and led by VMUG leaders.
 * https://join.slack.com/t/worldofeuc/shared_invite/zt-1r7docpxx-W7GcnYDamZ_slGeO8j1a5g - World of EUC Slack
 
