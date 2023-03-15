@@ -5,6 +5,7 @@
 * https://join.slack.com/t/worldofeuc/shared_invite/zt-1r7docpxx-W7GcnYDamZ_slGeO8j1a5g - World of EUC Slack
 
 ## Useful Links
+* https://www.vmware.com/company/it-academy.html
 * https://www.tcwd.net/vblog
 * http://boche.net/blog/
 * [5 Bytes Podcast](https://www.rorymon.com/blog/5-bytes-podcast-episode-guide/)
